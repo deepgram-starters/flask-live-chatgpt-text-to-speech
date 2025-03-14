@@ -1,4 +1,4 @@
-# Flask Lie ChatGPT Text-to-Speech Starter
+# Flask Live ChatGPT Text-to-Speech Starter
 
 [![Discord](https://dcbadge.vercel.app/api/server/xWRaCDBtW4?style=flat)](https://discord.gg/xWRaCDBtW4)
 
