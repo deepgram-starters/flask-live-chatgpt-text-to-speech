@@ -134,7 +134,7 @@ def hello(websocket):
                 continue
 
             if not model:
-                model = "aura-asteria-en"
+                model = "aura-2-thalia-en"
 
             # Are we connected to the Deepgram TTS WS?
             if connected is False:

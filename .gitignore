@@ -3,3 +3,4 @@ __pycache__/
 
 # Environments
 .env
+.DS_Store
